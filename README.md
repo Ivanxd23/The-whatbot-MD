@@ -30,6 +30,12 @@ The whatbot-MD todavía no está terminado bot el desarrollo✨
 <p align="hihg">   
 <a href="https://portal.acidicnodes.com" target="_blank"> <img src="https://img.shields.io/badge/-AcidicNodes-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
+---------
+
+### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
+
+<p align="hihg">   
+<a href="https://dash.boxmineworld.com" target="_blank"> <img src="https://img.shields.io/badge/-boxmine-%23E4405F?style=for-the-badge&logo=acidicnodes&logoColor=black" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
 
 ---------
 
