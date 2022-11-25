@@ -1,11 +1,11 @@
 //=============『 owner 』================== //
-global.owner = ['5492266466080' , '51935116539'] 
+global.owner = ['523337763103' , '523331513520'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'creador'
-global.numberowner = '5492266466080' , '51935116539'
+global.numberowner = '523337763103' , '523321513520'
 global.instagram = ''
 global.github = ''
 global.dana = '087892711054'
